@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Project
+# Data Analyst Portfolio Projects
 A Repository to hold all of the code and queries from the Portfolio Projects.
 
 # [ Project 1: Covid-19 and Vaccinations rates: Project Overview](https://github.com/TheNumbers8/PortfolioProject/blob/main/Covid.sql)
