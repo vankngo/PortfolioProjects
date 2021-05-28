@@ -13,3 +13,4 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Splitted property address and owner address into street, city, state and created new columns for those
 * Replaced inconsist data format in Sold as Vacant column
 * Removed duplicates rows
+* [Raw data](https://github.com/TheNumbers8/PortfolioProject/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx) - [Cleaned data](https://github.com/TheNumbers8/PortfolioProject/blob/main/Nashville%20Housing%20Data%20(Cleaned).xlsx)
