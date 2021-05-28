@@ -1,2 +1,2 @@
 # PortfolioProject
-A Repository tohold all of the code and queries from the Portfolio Projects.
+A Repository to hold all of the code and queries from the Portfolio Projects.
