@@ -31,7 +31,7 @@ Where location like '%states%'
 order by 1,2
 
 
--- Looing at Countries with Highest Infection rate compared to Population
+-- Looking at Countries with Highest Infection rate compared to Population
 
 Select Location,population, MAX(total_cases) as HighestInfectionCount, MAX(total_cases/population)*100 as PercentPopulationInfected
 From PortfolioProject..['covid-deaths$']
@@ -71,7 +71,7 @@ From PortfolioProject..['covid-deaths$']
 Where continent is not null
 order by 1,2
 
--- Toal Population vs Vaccinations
+-- Total Population vs Vaccinations
 
 Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations, SUM(Convert(int, vac.new_vaccinations)) OVER (Partition by dea.location Order by dea.location, dea.date) as RollingPeopleVaccinated
 From PortfolioProject..['covid-deaths$'] dea
