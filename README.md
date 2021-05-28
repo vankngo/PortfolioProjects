@@ -6,3 +6,10 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Compared infection rates and  death rates between countries to find the highest.
 * Total cases globally and vaccinations rates around the world. 
 * Visulized the result in a dashboard.
+
+[Project 2: Cleaning data in Nashville Housing file](https://github.com/TheNumbers8/PortfolioProject/blob/main/Nashville%20Housing%20Clean%20Data.sql)
+* Changed date format to get rid of time.
+* Replaced Null value in Address with a proper Address and update the data.
+* Splitted property address and owner address into street, city, state and created new columns for those.
+* Replaced inconsist data format in Sold as Vacant column.
+* Removed duplicates rows.
