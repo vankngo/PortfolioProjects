@@ -15,7 +15,7 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Removed duplicates rows
 * [Raw data](https://github.com/TheNumbers8/PortfolioProjects/blob/main/Data%20Cleaning/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx) - [Proper data](https://github.com/TheNumbers8/PortfolioProjects/blob/main/Data%20Cleaning/Nashville%20Housing%20Data%20(Cleaned).xlsx)
 
-# [Project 3: Excel Project](https://github.com/TheNumbers8/PortfolioProjects/blob/main/ExcelProject.zip)
+# [Project 3: Excel Project (4 files)](https://github.com/TheNumbers8/PortfolioProjects/blob/main/ExcelProject.zip) 
 * Part 1: sort, formulas, pivot table and visualization
 * Part 2: crosstabulated pivot table and slicer
 * Data Modeling part 1: vlookup, power query, data model
