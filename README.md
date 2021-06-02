@@ -20,4 +20,6 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Part 2: crosstabulated pivot table and slicer
 * Data Modeling part 1: vlookup, power query, data model
 * Data Modeling part 2: data modeling from SQL database
-![](https://github.com/TheNumbers8/PortfolioProjects/blob/main/images/TotalRevenue_powerBI.png)
+* Power BI visualization
+
+![](https://github.com/TheNumbers8/PortfolioProjects/blob/main/images/TotalRevenue_powerBI.png =250x250)
