@@ -5,7 +5,7 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Showed percentage of getting covid 19 and likelihood of dying in countries
 * Compared infection rates and  death rates between countries to find the highest
 * Total cases globally and vaccinations rates around the world.
-* [Visulaized the result in a dashboard](https://public.tableau.com/app/profile/van5080/viz/CovidDashboard_16221837794250/Dashboard1)
+* [Visualized the result in a dashboard](https://public.tableau.com/app/profile/van5080/viz/CovidDashboard_16221837794250/Dashboard1)
 
 # [Project 2: Cleaning data in Nashville Housing file](https://github.com/TheNumbers8/PortfolioProject/blob/main/Nashville%20Housing%20Clean%20Data.sql)
 * Changed date format to get rid of time
