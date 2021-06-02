@@ -22,4 +22,4 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Data Modeling part 2: data modeling from SQL database
 * Power BI visualization
 
-![](https://github.com/TheNumbers8/PortfolioProjects/blob/main/images/TotalRevenue_powerBI.png =250x250)
+<img src="https://github.com/TheNumbers8/PortfolioProjects/blob/main/images/TotalRevenue_powerBI.png" width="500">
