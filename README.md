@@ -10,7 +10,7 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 # [Project 2: Cleaning data in Nashville Housing file](https://github.com/TheNumbers8/PortfolioProjects/tree/main/Data%20Cleaning)
 * Changed date format to get rid of time
 * Replaced Null value in Address with a proper Address and update the data
-* Splitted property address and owner address into street, city, state and created new columns for those
+* Split property address and owner address into street, city, state and created new columns for those
 * Replaced inconsist data format in Sold as Vacant column
 * Removed duplicates rows
 * [Raw data](https://github.com/TheNumbers8/PortfolioProjects/blob/main/Data%20Cleaning/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx) - [Proper data](https://github.com/TheNumbers8/PortfolioProjects/blob/main/Data%20Cleaning/Nashville%20Housing%20Data%20(Cleaned).xlsx)
