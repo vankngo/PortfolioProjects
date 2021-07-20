@@ -25,7 +25,7 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 <img src="./images/TotalRevenue_powerBI.png" width="500">
 
 # [Project 4: Movie Correlation](https://github.com/TheNumbers8/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb)
-* Cleaned data by checking for mising or duplicated, changing datatype and creating additional columns
+* Cleaned data by checking for missing or duplicated, changing datatype and creating additional columns
 * Tested on hypotheses that budget has high correlation with gross and company has high correlation with gross 
 * Verified correlation by scatter plot, heatmap using Seaborn
 * Confirmed that budget has high correlation with gross while company has low correlation instead
