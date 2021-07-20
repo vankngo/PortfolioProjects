@@ -29,4 +29,4 @@ A Repository to hold all of the code and queries from the Portfolio Projects.
 * Tested on hypotheses that budget has high correlation with gross and company has high correlation with gross 
 * Verified correlation by scatter plot, heatmap using Seaborn
 * Confirmed that budget has high correlation with gross while company has low correlation instead
-* Discoverd that votes also has high correlation with gross
+* Discovered that votes also has high correlation with gross
